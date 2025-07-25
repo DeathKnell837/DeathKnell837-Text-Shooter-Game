@@ -1,0 +1,7 @@
+{
+    "player_speed": 5,
+    "player_lives": 3,
+    "enemy_speed": 2,
+    "enemy_spawn_rate": 60,
+    "bullet_speed": 10
+}
