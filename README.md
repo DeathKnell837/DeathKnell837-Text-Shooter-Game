@@ -2,8 +2,6 @@
 
 By Rogie P. Bacanto
 
-By Rogie P. Bacanto
-
 This is a 2D top-down space shooter game built with Python and the Pygame library. It features dynamic gameplay that gets progressively harder, power-ups, and a separate UI editor to customize game settings.
 
 ## Features
